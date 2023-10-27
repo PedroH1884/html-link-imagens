@@ -69,8 +69,28 @@ body {
     background-color: #333;
     overflow: hidden;
     box-shadow: 0px 0px 3px #ccc;
-    margin-left: 200px;
-    margin-right: 300px;
+    margin-left: 150px;
+    margin-right: 150px;
     color: white;
     display: flex;
+}
+
+.lojas {
+    overflow: hidden;
+    box-shadow: 0px 0px 3px #ccc; 
+    color: black;
+    text-align:center;
+}
+
+.descricao {
+    overflow: hidden;
+    box-shadow: 0px 0px 20px #ccc; 
+    padding-top: 15px;
+    padding-inline-end: 15px;
+    color: black;
+    text-align:center;
+}
+.final {
+   position: relative;
+   top: 200px;
 }
