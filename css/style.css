@@ -84,13 +84,43 @@ body {
 
 .descricao {
     overflow: hidden;
-    box-shadow: 0px 0px 20px #ccc; 
+    box-shadow: 0px 0px 3px #ccc; 
     padding-top: 15px;
     padding-inline-end: 15px;
     color: black;
     text-align:center;
 }
+
 .final {
    position: relative;
-   top: 200px;
+   top: 150px;
+   overflow: hidden;
+   text-align:left;
+   padding-left: 15px;
+   font-size: 17px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, sans-serif;
+}
+
+.final1 {
+    position: relative;
+    top: 250px;
+    overflow: hidden;
+    text-align:left;
+    padding-left: 15px;
+    font-size: 17px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, sans-serif;
+}
+
+ .final2 {
+    position: relative;
+    top: 360px;
+    overflow: hidden;
+    text-align:left;
+    padding-left: 15px;
+    font-size: 17px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, sans-serif;
+}
+
+.frete {
+    color: green;
 }
